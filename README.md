@@ -42,7 +42,7 @@ This backend provides APIs for managing users, news, education materials, and re
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/backend.git
+git clone https://github.com/devue4/educational-backend.git
 cd backend
 ```
 
