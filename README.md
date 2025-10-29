@@ -43,7 +43,7 @@ This backend provides APIs for managing users, news, education materials, and re
 
 ```bash
 git clone https://github.com/devue4/educational-backend.git
-cd backend
+cd educational-backend
 ```
 
 ### 2️⃣ Install dependencies
